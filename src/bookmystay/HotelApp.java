@@ -16,3 +16,4 @@ public class HotelApp {
         searchService.searchRoom("Presidential"); // Does not exist
     }
 }
+..
