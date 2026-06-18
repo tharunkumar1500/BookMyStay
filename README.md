@@ -30,7 +30,7 @@ A hotel booking app that lets guests search and reserve rooms/services on a firs
 
 ---
 
-## Current Implementation: Use Case 5 (Add-On Service Selection)
+## Current Implementation: Use Case 5 (Add-On Service Selection).
 
 **Purpose:**
 Uses a `Map<String, List<Service>>` to associate multiple optional services (like Breakfast, Spa) to a specific booking ID. It dynamically calculates the additional cost incurred by these services without altering the base room rate.
