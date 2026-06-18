@@ -11,3 +11,5 @@ public class HotelApp {
         System.out.println("Suite Rooms: " + inventory.getAvailableCount("Suite") + " | Price: $" + inventory.getPrice("Suite"));
     }
 }
+
+//
